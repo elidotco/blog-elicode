@@ -11,7 +11,7 @@ export default function Home({ posts }) {
         <meta name="description" content="Made by elicode" />
         <meta name="robots" content="all" />
         <link rel="icon" href="/favicon.ico" />
-        <html lang={"en"} />
+        
       </Head>
 
       <div className="container mx-auto px-10 mb-8">
